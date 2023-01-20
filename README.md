@@ -7,7 +7,7 @@ MS Learn is probably the primary place to learn: It has a clear structure, divid
 ### Mock exams
 We have looked at a few, from Udemy, Pluralsight and the "official" one that Microsoft links to. They are all pretty poor, in our experience, often being outdated. That said, it can help to at least get a feel for what the exam will be like - just don't rely on it to cover all the areas.
 
-Exam topic is a great choice when it comes to revision, many questions that are on the mock exams will show up in the exam. When using this site not all answers that are shown under the question are correct, so make sure you look at the conversation tab for that question and an answer will be upvoted within the comments thread.
+[exam topic](https://www.examtopics.com) is a great choice when it comes to revision, many questions that are on the mock exams will show up in the exam. When using this site not all answers that are shown under the question are correct, so make sure you look at the conversation tab for that question and an answer will be upvoted within the comments thread.
 
 ## Studying
 1. Not everything is covered by MS Learn. Do follow the MS Learn structure, but be prepared to learn more about the specific things that are listed in there. For example, if there is a module about APIM and you have never used that - do spend a bit of extra time learning a bit more about APIM than what is strictly included in MS Learn.
